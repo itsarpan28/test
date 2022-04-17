@@ -1,2 +1,2 @@
 # test
-test my commands
+test my git commands 
